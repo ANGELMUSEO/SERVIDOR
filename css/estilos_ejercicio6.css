@@ -51,7 +51,7 @@ div{
 }
 #cuatro{
 	border-color:blue blue red red;
-	border-style:groove dotted inset inset;
+	border-style: dotted ;
 	border-width:5px 10px 15px 20px;
 }
 #cinco{
