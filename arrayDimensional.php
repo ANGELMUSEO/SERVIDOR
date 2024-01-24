@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<?php
+<?php 
 
 $alumnosNotas=array(array(3.5,8.9,9.6),
                    array(4.6,7.8,9.5),
