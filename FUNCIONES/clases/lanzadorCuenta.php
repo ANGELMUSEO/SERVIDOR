@@ -9,8 +9,8 @@
 <?php
 
 
-include "bancoEjecutable1.php";
-AplicationBanco::main();
+include "AplicationCuenta2.php";
+AplicationCuenta2::main();
 
 ?>
 
